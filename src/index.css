@@ -11,7 +11,7 @@ background-color:rgb(150, 195, 234);
 }
 
 .navbar{
-  background-color: rgb(12, 170, 12) ;
+  background-color: rgb(32, 120, 244) ;
   color: black;
   border: 2px solid black;
 }
@@ -39,7 +39,7 @@ background-color:rgb(150, 195, 234);
 .read-more {
   display: block;
   margin-top: 10px; 
-  color: rgb(245, 44, 225); 
+  color: rgb(44, 88, 245); 
   text-decoration: none;
 }
 
