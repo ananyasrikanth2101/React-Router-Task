@@ -1,5 +1,5 @@
 body,html{
-background-color:rgb(150, 234, 150);
+background-color:rgb(150, 195, 234);
 }
 .nav-underline 
 .nav-link {
@@ -23,7 +23,7 @@ background-color:rgb(150, 234, 150);
   height: 2px; 
   bottom: 0;
   right: 0; 
-  background-color: green; 
+  background-color: rgb(92, 190, 231); 
   transition: width 0.3s;
 }
 
@@ -39,7 +39,7 @@ background-color:rgb(150, 234, 150);
 .read-more {
   display: block;
   margin-top: 10px; 
-  color: green; 
+  color: rgb(245, 44, 225); 
   text-decoration: none;
 }
 
